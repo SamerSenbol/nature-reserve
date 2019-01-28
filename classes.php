@@ -38,7 +38,7 @@ class Tigrar extends Animal {
         return "<img src = './Images/tigrar.jpg' height = 150px width = 200px>";
     }
 }
-class Kokosnötter extends Animal {
+class Kokosnotter extends Animal {
     
     public function getSound() {
         return"AoAo";

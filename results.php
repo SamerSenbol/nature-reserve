@@ -26,7 +26,7 @@
         echo $giraffer->getPicture();
         echo $giraffer->getSound();
 
-        $giraffer = new Kokosnötter();
+        $giraffer = new Kokosnotter();
         echo $giraffer->getPicture();
         echo $giraffer->getSound();
 
