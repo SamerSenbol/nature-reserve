@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 Nature Reserve: Part 1
 Each item must be made as one or more gitcommits for a new repo. Repot should be added to
 github and you should link from github repot to your web address where the page can be seen.
@@ -28,3 +29,6 @@ If you try to go out to settings.php when you have already sent the form, the pa
 From results.php you should be able to restart your nature reserve with a button
 In a form you should be able to choose more animals and plants: lions, antiloops, gorillas, palm trees,
 fir trees and roses to be found in the nature reserve.
+=======
+# nature-reserve Try it [here](https://samersenbol.github.io/nature-reserve/.)
+>>>>>>> 50fce5d9cdacc1f956af0a9817646f2eda03d390
